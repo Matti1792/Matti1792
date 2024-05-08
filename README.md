@@ -1,6 +1,6 @@
 ### Boas vindas ao meu perfil 💙
 
-Meu noome é Mateus Oliveira
+Meu nome é Mateus Oliveira
 
 - Estou me desenvolvendo na linguagem JavaScript e Python
 - Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
@@ -8,6 +8,7 @@ Meu noome é Mateus Oliveira
 ## Caso queira entrar em contato comigo 💌
 
 mattiso996@gmail.com
+
 mattiso997@proton.me
 
 <!--
