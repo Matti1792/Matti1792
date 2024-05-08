@@ -1,6 +1,3 @@
-![](https://tenor.com/pt-BR/view/sasuke-gif-26516959)
-
-
 ### Boas vindas ao meu perfil 💙
 
 Meu nome é Mateus Oliveira
@@ -14,3 +11,5 @@ Meu nome é Mateus Oliveira
 mattiso996@gmail.com
 
 mattiso997@proton.me
+
+![](https://tenor.com/pt-BR/view/sasuke-gif-26516959)
