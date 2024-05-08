@@ -1,4 +1,14 @@
-### Hi there 👋
+### Boas vindas ao meu perfil 💙
+
+Meu noome é Mateus Oliveira
+
+- Estou me desenvolvendo na linguagem JavaScript e Python
+- Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
+
+## Caso queira entrar em contato comigo 💌
+
+mattiso996@gmail.com
+mattiso997@proton.me
 
 <!--
 **Matti1792/Matti1792** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
