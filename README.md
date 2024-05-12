@@ -6,7 +6,7 @@ Meu nome é Mateus Oliveira
 - Estou me desenvolvendo na linguagem JavaScript e Python
 - Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
 
-<td><img src="[https://64.media.tumblr.com/tumblr_lyxj33CYzW1qigluvo4_250.gif](https://tenor.com/pt-BR/view/sasuke-gif-26516959)"></td>
+<td><img src="(https://tenor.com/pt-BR/view/sasuke-gif-26516959)"></td>
 
 ## Caso queira entrar em contato comigo 💌
 
