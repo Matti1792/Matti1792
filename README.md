@@ -1,6 +1,4 @@
-<div class="aligncenter">  
-  <![](https://media1.tenor.com/m/TL_14vt9jh8AAAAC/sasuke-uchiha.gif)>
-</div>
+![](https://media1.tenor.com/m/TL_14vt9jh8AAAAC/sasuke-uchiha.gif)
 
 ### Boas vindas ao meu perfil 💙
 
@@ -10,7 +8,7 @@ Meu nome é Mateus Oliveira
 - Estou me desenvolvendo na linguagem JavaScript e Python
 - Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
 
-## Caso queira entrar em contato comigo 💌
+## Caso queira entrar em contato comigo 📧
 
 mattiso996@gmail.com
 
