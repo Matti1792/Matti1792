@@ -1,4 +1,4 @@
-<div style="gif-align: center;" markdown="1">![](https://media1.tenor.com/m/TL_14vt9jh8AAAAC/sasuke-uchiha.gif) 
+<div style="gif-align: center;" markdown="2">![](https://media1.tenor.com/m/TL_14vt9jh8AAAAC/sasuke-uchiha.gif) 
 </div>
 
 ### Boas vindas ao meu perfil 💙
