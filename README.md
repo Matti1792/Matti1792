@@ -1,4 +1,4 @@
-  ![](https://media1.tenor.com/m/st4Jixzu9mEAAAAC/sasuke.gif)
+  ![]([https://media1.tenor.com/m/st4Jixzu9mEAAAAC/sasuke.gif](https://media1.tenor.com/m/TL_14vt9jh8AAAAC/sasuke-uchiha.gif))
 
 ### Boas vindas ao meu perfil 💙
 
