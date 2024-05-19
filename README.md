@@ -1,9 +1,14 @@
-### Boas vindas ao meu perfil 💙
-## Meu nome é Mateus Oliveira
+<div> 
+  <h1> Boas vindas ao meu perfil 💙</h1>
+</div>
 
-- Estou estudando na [Alura](https://www.alura.com.br/)
-- Estou me desenvolvendo na linguagem JavaScript e Python
-- Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
+<div>
+  <ul>
+<li> Estou estudando na Alura</li>
+<li> Estou me desenvolvendo na linguagem JavaScript e Python</li>
+<li> Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos</li>
+</div>
+
 <div style="display: inline_block">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -19,10 +24,10 @@
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Matti1792&layout=compact&langs_count=8&card_width=320&theme=transparent" />
 </a>
 </div>
-
-
-## Caso queira entrar em contato comigo 📧<br>
+<div>
+<h2> Caso queira entrar em contato comigo 📧</h2>
 
 mattiso996@gmail.com
 
 mattiso997@proton.me
+</div>
